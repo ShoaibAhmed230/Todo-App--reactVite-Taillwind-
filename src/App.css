@@ -1,0 +1,14 @@
+body{
+    /* background-color: #212121; */
+}
+
+.secondary-sky-blue{
+    background-color: #F7F7F7;
+}
+.todo-item-color{
+    background-color: #d3dfff;
+}
+button svg{
+    height: 20px;
+    width: 20px;
+}
